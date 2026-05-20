@@ -17,11 +17,13 @@ ___
 
 ## 🚀 Мои актуальные проекты
 
-* **[Violanora]((https://github.com/DanilAllMight/Violanora.git))** — контейнеризированное Fullstack-приложение с использованием двух баз данных (PostgreSQL + MongoDB) и проксированием через Nginx.
+* **[Violanora](https://github.com/DanilAllMight/Violanora.git)** — контейнеризированное Fullstack-приложение с использованием двух баз данных (PostgreSQL + MongoDB) и проксированием через Nginx.
 
 ---
 
 ## 📬 Связаться со мной
 
-[![Telegram](https://shields.io)](https://t.me)
-[![Email](https://shields.io)](mailto:lopatin1945@bk.ru)
+| Способ связи | Ссылка / Адрес |
+| :--- | :--- |
+| **Telegram** | [@ALL_MIGHT_DANIL](https://t.me) |
+| **Email** | `lopatin1945@bk.ru` |
