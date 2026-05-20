@@ -8,10 +8,10 @@ ___
 
 ## 🛠 Технологический стек
 
-* **Backend:** Node.js (Express), REST API
-* **Frontend:** React, Zustand, HTML5, CSS3
+* **Backend:** Node.js (Express), JavaScript, REST API
+* **Frontend:** React, Zustand, TypeScript, Vite, HTML5, CSS3
 * **Базы данных:** PostgreSQL, MongoDB
-* **Инфраструктура & DevOps:** Docker, Docker Compose, Nginx Proxy Manager, Git / GitHub
+* **Инфраструктура & DevOps:** Docker, Docker Compose, Nginx Proxy Manager, Git / GitHub, TimeWeb
 
 ---
 
