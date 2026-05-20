@@ -17,7 +17,7 @@ ___
 
 ## 🚀 Мои актуальные проекты
 
-* **[Violanora]([https://github.com](https://github.com/DanilAllMight/Violanora.git))** — контейнеризированное Fullstack-приложение с использованием двух баз данных (PostgreSQL + MongoDB) и проксированием через Nginx.
+* **[Violanora]((https://github.com/DanilAllMight/Violanora.git))** — контейнеризированное Fullstack-приложение с использованием двух баз данных (PostgreSQL + MongoDB) и проксированием через Nginx.
 
 ---
 
