@@ -1,4 +1,4 @@
-# Данил Лопатин
+# Данил Лопатин 👋
 
 **Fullstack / Frontend разработчик.**
 
@@ -6,7 +6,7 @@
 
 ___
 
-##Технологический стек
+## 🛠 Технологический стек
 
 * **Backend:** Node.js (Express), REST API
 * **Frontend:** React, Zustand, HTML5, CSS3
@@ -15,13 +15,13 @@ ___
 
 ---
 
-### 🚀 Мои актуальные проекты
+## 🚀 Мои актуальные проекты
 
-* **[Violanora](https://github.com)** — контейнеризированное Fullstack-приложение с использованием двух баз данных (PostgreSQL + MongoDB) и проксированием через Nginx.
+* **[Violanora]([https://github.com](https://github.com/DanilAllMight/Violanora.git))** — контейнеризированное Fullstack-приложение с использованием двух баз данных (PostgreSQL + MongoDB) и проксированием через Nginx.
 
 ---
 
-### 📬 Связаться со мной
+## 📬 Связаться со мной
 
 [![Telegram](https://shields.io)](https://t.me)
 [![Email](https://shields.io)](mailto:lopatin1945@bk.ru)
