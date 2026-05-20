@@ -1,16 +1,27 @@
-## Hi there 👋
+# Данил Лопатин
 
-<!--
-**DanilAllMight/DanilAllMight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack / Frontend разработчик.**
 
-Here are some ideas to get you started:
+Заинтересован в написании качественных программных продуктов, постоянно развиваюсь в рамках своей профессиональной деятельности. Стремлюсь попасть в окружение (команду) хороших специалистов, чтобы перенимать опыт и вместе творить новые проекты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+##Технологический стек
+
+* **Backend:** Node.js (Express), REST API
+* **Frontend:** React, Zustand, HTML5, CSS3
+* **Базы данных:** PostgreSQL, MongoDB
+* **Инфраструктура & DevOps:** Docker, Docker Compose, Nginx Proxy Manager, Git / GitHub
+
+---
+
+### 🚀 Мои актуальные проекты
+
+* **[Violanora](https://github.com)** — контейнеризированное Fullstack-приложение с использованием двух баз данных (PostgreSQL + MongoDB) и проксированием через Nginx.
+
+---
+
+### 📬 Связаться со мной
+
+[![Telegram](https://shields.io)](https://t.me)
+[![Email](https://shields.io)](mailto:lopatin1945@bk.ru)
